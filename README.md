@@ -6,3 +6,4 @@ In this repository, I have listed all the projects that I have done in the field
 1) [Linear Regression Project](https://github.com/shivi0/Linear-Regression-Project)
 2) [Logistic Regression Project](https://github.com/shivi0/Logistic-Regression-Project)
 3) [KNN Project](https://github.com/shivi0/KNN-Project)
+4) [Decision Tree and Random Forest](https://github.com/shivi0/Decision-Tree-and-Random-Forest-Project)
